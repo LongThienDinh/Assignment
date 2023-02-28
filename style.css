@@ -71,7 +71,7 @@ ul.block {
 
 }
 li a{ /* Requirement-2.F */
-    display: block; /* Requirement-2.11 */
+    display: block; /* Requirement-2.12 */
     color: purple;
     width: 100px;
 }
